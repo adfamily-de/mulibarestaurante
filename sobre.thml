@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Sobre | Muliba Restaurante</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1 class="titulo">Sobre o Muliba</h1>
+
+<section class="sobre">
+
+<p>
+
+O Muliba Restaurante Bar & Lounge foi criado para oferecer uma experiência gastronómica única na Matola.
+
+Nosso espaço combina cozinha de qualidade, ambiente elegante e um lounge sofisticado para encontros, celebrações e momentos especiais.
+
+</p>
+
+<img src="ambiente1.jpg">
+
+</section>
+
+</body>
+</html>
